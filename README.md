@@ -43,12 +43,7 @@ Licença
 Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE para obter mais informações.
 
 Autores
-Bruno Cardoso Montero 
-Sammuel Gusmão Martins
-José Carlos Neto Soares Dantas
-Caio Chaves Lima
-Rafael Rodrigues Souza
-
+Bruno Cardoso Monteiro, Caio Chaves Lima, José Carlos Neto, Rafael Rodrigues Souza e Sammuel Gusmão Martins 
 
 
 Agradecimentos
