@@ -4,15 +4,17 @@ Este projeto consiste na integração entre um dispositivo Arduino e o aplicativ
 Pré-requisitos
 Antes de executar o projeto, certifique-se de ter o seguinte:
 
-Arduino Uno (ou outro modelo compatível)
-Sensor de gás MQ-2
-Computador com Node.js instalado
-Conta do WhatsApp
+Arduino Uno (ou outro modelo compatível),
+Sensor de gás MQ-2,
+Computador com Node.js instalado,
+Conta do WhatsApp,
+
+
 Instalação
 Clone este repositório em sua máquina local usando o comando:
 
-bash
-Copy code
+
+
 git clone https://github.com/brunocardsx/gas-Detector.git
 No diretório do projeto, execute o seguinte comando para instalar as dependências do Node.js:
 
