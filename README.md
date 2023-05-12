@@ -48,7 +48,7 @@ Contribuições são bem-vindas! Se você encontrar algum problema ou tiver suge
 Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE para obter mais informações.
 
 # Autores
-Bruno Cardoso Monteiro, Caio Chaves Lima, José Carlos Neto, José Henrique Dias Moreira Rafael Rodrigues Souza e Sammuel Gusmão Martins 
+Bruno Cardoso Monteiro, Caio Chaves Lima, José Carlos Neto, José Henrique Dias Moreira, Rafael Rodrigues Souza e Sammuel Gusmão Martins 
 
 
 # Agradecimentos
