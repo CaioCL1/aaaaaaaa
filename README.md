@@ -42,11 +42,17 @@ Contribuições são bem-vindas! Se você encontrar algum problema ou tiver suge
 Licença
 Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE para obter mais informações.
 
-Autor
-Seu Nome - seu-email@example.com
+Autores
+Bruno Cardoso Montero 
+Sammuel Gusmão Martins
+José Carlos Neto Soares Dantas
+Caio Chaves Lima
+Rafael Rodrigues Souza
+
+
 
 Agradecimentos
-Agradecemos a Nome do Autor/Projeto por fornecer a biblioteca/utilitário/inspiração que tornou este projeto possível.
+Agradecemos ao  Higor Viana, autor do venom-bot por fornecer a biblioteca/utilitário/inspiração que tornou este projeto possível.
 
 Sinta-se à vontade para personalizar o conteúdo de acordo com o seu projeto, adicionando seções adicionais ou ajustando as informações conforme necessário. O objetivo principal do arquivo README.md é fornecer uma visão geral do projeto, instruções de instalação e uso, e informações sobre como contribuir ou entrar em contato com o autor.
 
