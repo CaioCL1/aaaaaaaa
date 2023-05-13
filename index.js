@@ -9,11 +9,11 @@ const port = new SerialPort({ path: 'COM3', baudRate: 9600 });
 const parser = port.pipe(new ReadlineParser({ delimiter: '\r\n' }));
 
 // Configura um evento para imprimir no console as mensagens recebidas pela porta serial
-parser.on('data', console.log);
+
 
 // Cria uma sessão no WhatsApp usando o pacote 'venom-bot'
 create({
-  session: 'chat-gpt',
+  session: 'gas-wpp',
   multidevice: true,
 })
   .then((client) => start(client)) // Inicia o cliente quando a sessão é criada com sucesso
@@ -39,4 +39,5 @@ async function start(client) {
         });
     }
   });
+  
 }
